@@ -121,8 +121,11 @@ plt.show()
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
+![image](https://github.com/Archana2003-Jkumar/convolutional-denoising-autoencoder/assets/93427594/09dd6884-4092-442f-8580-a65daa0a304f)
 
 ### Original vs Noisy Vs Reconstructed Image:
+![image](https://github.com/Archana2003-Jkumar/convolutional-denoising-autoencoder/assets/93427594/886ef22b-b55f-4752-9a69-ae2d173e32fd)
+![image](https://github.com/Archana2003-Jkumar/convolutional-denoising-autoencoder/assets/93427594/c96a6c4a-abc7-424e-b1cc-b7c8189b2cc0)
 
 
 ## RESULT:
